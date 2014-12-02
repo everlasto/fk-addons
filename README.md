@@ -1,4 +1,4 @@
 fk-addons
 =========
 
-Addons that improves the life of fk-dev
+Addons that saves the day of developers.
